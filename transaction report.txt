@@ -1,0 +1,6 @@
+aster: 20000.0
+abera: 12000.0
+zebiba: 8000.0
+mesere: 4500.0
+abebe: 4000.0
+tigist: 3700.0

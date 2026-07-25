@@ -1,0 +1,9 @@
+
+    aster,13000  
+    abera,8500    
+    abebe,4000
+    mesere, 4500
+    abera,3500 
+    aster,7000
+    tigist, 3700
+    zebiba, 8000
